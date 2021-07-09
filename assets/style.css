@@ -25,10 +25,6 @@ background: radial-gradient(ellipse at center, #DF3064 0%, #2a2663 50%, #464748 
     background-color: #464748!important
     ;
 }
-img{
-    height: 80px;
-    width: 80px;
-}
 
 .pdf{
     height: 500px;
@@ -68,3 +64,4 @@ padding-top: 40px!important;
 margin-right: 600px!important;
 margin-left: 0%!important;
 }
+
